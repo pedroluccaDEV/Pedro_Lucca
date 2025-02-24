@@ -1,22 +1,15 @@
-# 👨🏾‍💻 Larissa Kich
+# 👨🏾‍💻 Pedro Lucca
 
-**`FullStack Developer | UX Designer | Python • Javascript • TypeScript • SQL | Student of Systems Analysis and Development at PUCPR`**
+**`| FullStack Developer | UX Designer | Python • Javascript • TypeScript • SQL | Student of Systems Analysis and Development at PUCPR |`**
 
 I am a full-stack developer and UX designer with experience in Python, JavaScript, TypeScript, and frameworks such as Node.js, Flask, Vue.js, and React. I have expertise in data science, predictive and generative AI, creating innovative solutions like chatbots and autonomous agents. I am skilled in tools like Figma, Adobe Illustrator, and After Effects, focusing on prototypes and intuitive user experiences.
 
-<p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+<p align="center">
+    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="LinkedIn Profile" 
+            title="LinkedIn Profile" 
+            src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"
         />
     </a>
 </p>
