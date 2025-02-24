@@ -43,7 +43,7 @@ I am a full-stack developer and UX designer with experience in Python, JavaScrip
 
 #### **Backend Development**
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
+<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWA3j1vFHAw02M1aWlAnhbbkmWYpF2kkDbrw&s"/>
 <img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
 
 <br/><br/>
