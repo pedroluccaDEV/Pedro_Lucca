@@ -5,11 +5,11 @@
 I am a full-stack developer and UX designer with experience in Python, JavaScript, TypeScript, and frameworks such as Node.js, Flask, Vue.js, and React. I have expertise in data science, predictive and generative AI, creating innovative solutions like chatbots and autonomous agents. I am skilled in tools like Figma, Adobe Illustrator, and After Effects, focusing on prototypes and intuitive user experiences.
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <a href="https://www.linkedin.com/in/pedroluccaga/" target="_blank">
         <img 
             alt="LinkedIn Profile" 
             title="LinkedIn Profile" 
-            src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"
+            src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png"
         />
     </a>
 </p>
